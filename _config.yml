@@ -1,1 +1,19 @@
+title: Blog
+#author: calvin cheng
+email: calvincheng919@gmail.com
+description:  # this means to ignore newlines until "baseurl:"
+ A yawn is a silent scream for coffee, and a sigh is a silent scream for beer
+
+#social links
+twitter_username: calvincheng919
+github_username:  calvincheng919
+linkedin_username: calvincheng
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+header_pages:
+  - Home: "http://calvincheng.dev"
+  - jsconcepts.md
+
+
 theme: jekyll-theme-dinky
